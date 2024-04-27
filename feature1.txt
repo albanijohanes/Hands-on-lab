@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Fitur untuk sticky notes
-=======
-Fitur untuk dokumen
->>>>>>> devs
